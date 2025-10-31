@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from nest-frontend-v6.vercel.app/page-about.html by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:04:01 GMT -->
+<!-- Mirrored from nest-frontend-v6.vercel.app/page-about by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:04:01 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8" />
@@ -16,6 +16,17 @@
     <meta property="og:image" content="" />
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/theme/favicon.svg" />
+    <!-- Vendor CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uicons@2.0.0/css/uicons-regular-straight.min.css">
+
+<!-- Plugin CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/css/perfect-scrollbar.min.css">
+
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/main5103.css" />
 </head>
@@ -606,5 +617,5 @@
 </body>
 
 
-<!-- Mirrored from nest-frontend-v6.vercel.app/page-about.html by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:04:12 GMT -->
+<!-- Mirrored from nest-frontend-v6.vercel.app/page-about by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:04:12 GMT -->
 </html>
