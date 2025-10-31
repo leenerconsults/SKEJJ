@@ -29,7 +29,7 @@
                     <div class="col-xl-3 col-lg-4">
                         <div class="header-info">
                             <ul>
-                                <li><a href="page-about.html">About Us</a></li>
+                                <li><a href="page-about.html.html">About Us</a></li>
                                 <li><a href="page-login.html">My Account</a></li>
                                 <li><a href=" #">Wishlist</a></li>
                                 <li><a href="#">Order Tracking</a></li>
@@ -259,7 +259,7 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="page-about">About</a>
+                                        <a href="page-about.html">About</a>
                                     </li>
                                     <li><a href="shop-grid-right.html">Shop <i class="fi-rs-angle-down"></i></a>
                                         <ul class="sub-menu">
@@ -379,7 +379,7 @@
                                     </li>
                                     <li><a href="#">Pages <i class="fi-rs-angle-down"></i></a>
                                         <ul class="sub-menu">
-                                            <li><a href="page-about">About Us</a></li>
+                                            <li><a href="page-about.html">About Us</a></li>
                                             <li><a href="page-contact">Contact</a></li>
                                             <li><a href="page-login.html">My Account</a></li>
                                             <li><a href="page-login.html">Login</a></li>
