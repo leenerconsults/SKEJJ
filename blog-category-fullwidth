@@ -1,0 +1,862 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<!-- Mirrored from nest-frontend-v6.vercel.app/blog-category-fullwidth by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:05:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8" />
+    <title>S.K.E.J.J - UK’s one-stop Afro-Caribbean Online Superstore</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/theme/favicon.svg" />
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/main5103.css" />
+</head>
+
+<body>
+    <header class="header-area header-style-1 header-height-2">
+        <div class="mobile-promotion">
+            <span>Grand opening, <strong>up to 15%</strong> off all items. Only <strong>3 days</strong> left</span>
+        </div>
+        <div class="header-middle header-middle-ptb-1 d-none d-lg-block">
+            <div class="container">
+                <div class="header-wrap">
+                    <div class="logo logo-width-1">
+                        <a href="index.html"><img src="assets/imgs/theme/logo.png" alt="logo" /></a>
+                    </div>
+                    <div class="header-right">
+                        <div class="search-style-2">
+                            <form action="#">
+                                <select class="select-active">
+                                    <option>All Categories</option>
+                                    <option>Milks and Dairies</option>
+                                    <option>Wines & Alcohol</option>
+                                    <option>Clothing & Beauty</option>
+                                    <option>Pet Foods & Toy</option>
+                                    <option>Fast food</option>
+                                    <option>Baking material</option>
+                                    <option>Vegetables</option>
+                                    <option>Meat</option>
+                                    <option>Noodles & Rice</option>
+                                    <option>Ice cream</option>
+                                </select>
+                                <input type="text" placeholder="Search for items..." />
+                            </form>
+                        </div>
+                        <div class="header-action-right">
+                            <div class="header-action-2">
+                                                     
+                                <div class="header-action-icon-2">
+                                    <a href=" #">
+                                        <img class="svgInject" alt="Nest" src="assets/imgs/theme/icons/favourite-icon.svg" />
+                                        <span class="pro-count blue">6</span>
+                                    </a>
+                                    <a href=" #"><span class="lable">Wishlist</span></a>
+                                </div>
+                                <div class="header-action-icon-2">
+                                    <a class="mini-cart-icon" href="#">
+                                        <img alt="Nest" src="assets/imgs/theme/icons/icon-cart.svg" />
+                                        <span class="pro-count blue">2</span>
+                                    </a>
+                                    <a href="#"><span class="lable">Cart</span></a>
+                                    <div class="cart-dropdown-wrap cart-dropdown-hm2">
+                                        <ul>
+                                            <li>
+                                                <div class="shopping-cart-img">
+                                                    <a href="shop-product-right.html"><img alt="Nest" src="assets/imgs/shop/thumbnail-3.jpg" /></a>
+                                                </div>
+                                                <div class="shopping-cart-title">
+                                                    <h4><a href="shop-product-right.html">Daisy Casual Bag</a></h4>
+                                                    <h4><span>1 × </span>800.00</h4>
+                                                </div>
+                                                <div class="shopping-cart-delete">
+                                                    <a href="#"><i class="fi-rs-cross-small"></i></a>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="shopping-cart-img">
+                                                    <a href="shop-product-right.html"><img alt="Nest" src="assets/imgs/shop/thumbnail-2.jpg" /></a>
+                                                </div>
+                                                <div class="shopping-cart-title">
+                                                    <h4><a href="shop-product-right.html">Corduroy Shirts</a></h4>
+                                                    <h4><span>1 × </span>3200.00</h4>
+                                                </div>
+                                                <div class="shopping-cart-delete">
+                                                    <a href="#"><i class="fi-rs-cross-small"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <div class="shopping-cart-footer">
+                                            <div class="shopping-cart-total">
+                                                <h4>Total <span>4000.00</span></h4>
+                                            </div>
+                                            <div class="shopping-cart-button">
+                                                <a href="#" class="outline">View cart</a>
+                                                <a href="shop-checkout">Checkout</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="header-action-icon-2">
+                                    <a href="page-login.html">
+                                        <img class="svgInject" alt="Nest" src="assets/imgs/theme/icons/icon-user.svg" />
+                                    </a>
+                                    <a href="page-login.html"><span class="lable ml-0">Account</span></a>
+                                    <div class="cart-dropdown-wrap cart-dropdown-hm2 account-dropdown">
+                                        <ul>                                        
+                                            <li>
+                                                <a href="page-login.html"><i class="fi fi-rs-sign-out mr-10"></i>Sign out</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+         
+    </header>
+    <div class="mobile-header-active mobile-header-wrapper-style">
+        <div class="mobile-header-wrapper-inner">
+            <div class="mobile-header-top">
+                <div class="mobile-header-logo">
+                    <a href="index.html"><img src="assets/imgs/theme/logo.png" alt="logo" /></a>
+                </div>
+                <div class="mobile-menu-close close-style-wrap close-style-position-inherit">
+                    <button class="close-style search-close">
+                        <i class="icon-top"></i>
+                        <i class="icon-bottom"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="mobile-header-content-area">
+                <div class="mobile-search search-style-3 mobile-header-border">
+                    <form action="#">
+                        <input type="text" placeholder="Search for items…" />
+                        <button type="submit"><i class="fi-rs-search"></i></button>
+                    </form>
+                </div>
+                <div class="mobile-menu-wrap mobile-header-border">
+                    <!-- mobile menu start -->
+                    <nav>
+                        <ul class="mobile-menu font-heading">
+                            <li class="menu-item-has-children">
+                                <a href="index.html">Home</a>
+                                <ul class="dropdown">
+                                    <li><a href="index.html">Home 1</a></li>
+                                    <li><a href="index-2">Home 2</a></li>
+                                    <li><a href="index-3">Home 3</a></li>
+                                    <li><a href="index-4">Home 4</a></li>
+                                    <li><a href="index-5">Home 5</a></li>
+                                    <li><a href="index-6">Home 6</a></li>
+                                </ul>
+                            </li>
+                             
+                        </ul>
+                    </nav>
+                    <!-- mobile menu end -->
+                </div>
+                <div class="mobile-header-info-wrap">
+                    <div class="single-mobile-header-info">
+                        <a href="page-contact"><i class="fi-rs-marker"></i> Our location </a>
+                    </div>
+                    <div class="single-mobile-header-info">
+                        <a href="page-login.html"><i class="fi-rs-user"></i>Log In / Sign Up </a>
+                    </div>
+                    <div class="single-mobile-header-info">
+                        <a href="#"><i class="fi-rs-headphones"></i>(+01) - 2345 - 6789 </a>
+                    </div>
+                </div>
+                <div class="mobile-social-icon mb-50">
+                    <h6 class="mb-15">Follow Us</h6>
+                    <a href="#"><img src="assets/imgs/theme/icons/icon-facebook-white.svg" alt="" /></a>
+                    <a href="#"><img src="assets/imgs/theme/icons/icon-twitter-white.svg" alt="" /></a>
+                    <a href="#"><img src="assets/imgs/theme/icons/icon-instagram-white.svg" alt="" /></a>
+                    <a href="#"><img src="assets/imgs/theme/icons/icon-pinterest-white.svg" alt="" /></a>
+                    <a href="#"><img src="assets/imgs/theme/icons/icon-youtube-white.svg" alt="" /></a>
+                </div>
+                <div class="site-copyright">Copyright 2025 © Nest. All rights reserved. Powered by AliThemes.</div>
+            </div>
+        </div>
+    </div>
+    <!--End header-->
+    <main class="main">
+        <div class="page-header mt-30 mb-75">
+            <div class="container">
+                <div class="archive-header">
+                    <div class="row align-items-center">
+                        <div class="col-xl-3">
+                            <h1 class="mb-15">Blog & News</h1>
+                            <div class="breadcrumb">
+                                <a href="index.html" rel="nofollow"><i class="fi-rs-home mr-5"></i>Home</a>
+                                <span></span> Blog & News
+                            </div>
+                        </div>
+                        <div class="col-xl-9 text-end d-none d-xl-block">
+                            <ul class="tags-list">
+                                <li class="hover-up">
+                                    <a href="#"><i class="fi-rs-cross mr-10"></i>Shopping</a>
+                                </li>
+                                <li class="hover-up active">
+                                    <a href="#"><i class="fi-rs-cross mr-10"></i>Recips</a>
+                                </li>
+                                <li class="hover-up">
+                                    <a href="#"><i class="fi-rs-cross mr-10"></i>Kitchen</a>
+                                </li>
+                                <li class="hover-up">
+                                    <a href="#"><i class="fi-rs-cross mr-10"></i>News</a>
+                                </li>
+                                <li class="hover-up mr-0">
+                                    <a href="#"><i class="fi-rs-cross mr-10"></i>Food</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="page-content mb-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="shop-product-fillter mb-50">
+                            <div class="totall-product">
+                                <h2>
+                                    <img class="w-36px mr-10" src="assets/imgs/theme/icons/category-1.svg" alt="" />
+                                    Recips Articles
+                                </h2>
+                            </div>
+                            <div class="sort-by-product-area">
+                                <div class="sort-by-cover mr-10">
+                                    <div class="sort-by-product-wrap">
+                                        <div class="sort-by">
+                                            <span><i class="fi-rs-apps"></i>Show:</span>
+                                        </div>
+                                        <div class="sort-by-dropdown-wrap">
+                                            <span> 50 <i class="fi-rs-angle-small-down"></i></span>
+                                        </div>
+                                    </div>
+                                    <div class="sort-by-dropdown">
+                                        <ul>
+                                            <li><a class="active" href="#">50</a></li>
+                                            <li><a href="#">100</a></li>
+                                            <li><a href="#">150</a></li>
+                                            <li><a href="#">200</a></li>
+                                            <li><a href="#">All</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="sort-by-cover">
+                                    <div class="sort-by-product-wrap">
+                                        <div class="sort-by">
+                                            <span><i class="fi-rs-apps-sort"></i>Sort:</span>
+                                        </div>
+                                        <div class="sort-by-dropdown-wrap">
+                                            <span>Featured <i class="fi-rs-angle-small-down"></i></span>
+                                        </div>
+                                    </div>
+                                    <div class="sort-by-dropdown">
+                                        <ul>
+                                            <li><a class="active" href="#">Featured</a></li>
+                                            <li><a href="#">Newest</a></li>
+                                            <li><a href="#">Most comments</a></li>
+                                            <li><a href="#">Release Date</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="loop-grid">
+                            <div class="row">
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-1.png" alt="" />
+                                        </a>
+                                        <div class="entry-meta">
+                                            <a class="entry-meta meta-2" href="#"><i class="fi-rs-heart"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Side Dish</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The Intermediate Guide to Healthy Food</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-2.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Soups and Stews</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Summer Quinoa Salad Jars with Lemon Dill</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-3.png" alt="" />
+                                        </a>
+                                        <div class="entry-meta">
+                                            <a class="entry-meta meta-2" href="#"><i class="fi-rs-link"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Salad</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Caprese Chicken with Smashed Potatoes</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-4.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Dessert</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Harissa Chickpeas with Whipped Feta</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-5.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Breakfast</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Almond Butter Chocolate Chip Zucchini Bars</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-6.png" alt="" />
+                                        </a>
+                                        <div class="entry-meta">
+                                            <a class="entry-meta meta-2" href="#"><i class="fi-rs-picture"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Vegan</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Smoky Beans & Greens Tacos with Aji Verde</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-1.png" alt="" />
+                                        </a>
+                                        <div class="entry-meta">
+                                            <a class="entry-meta meta-2" href="#"><i class="fi-rs-heart"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Side Dish</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The Intermediate Guide to Healthy Food</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-7.png" alt="" />
+                                        </a>
+                                        <div class="entry-meta">
+                                            <a class="entry-meta meta-2" href="#"><i class="fi-rs-play-alt"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Gluten Free</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Sticky Ginger Rice Bowls with Pickled Veg</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-8.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Side Dish</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Creamy Garlic Sun-Dried Tomato Pasta</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-9.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Dairy Free</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The Absolute Easiest Spinach and Pizza</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-10.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Salad</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Sticky Ginger Rice Bowls with Pickled</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-1.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Soups</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The Best Soft Chocolate Chip Cookies</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-12.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Vegetarian</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">Baked Mozzarella Chicken Rolls</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-13.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#"> Dessert </a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The Best Avocado Egg Salad</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-14.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Vegetarian</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The litigants on the screen are not actors</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article class="col-xl-3 col-lg-4 col-md-6 text-center hover-up mb-30 animated">
+                                    <div class="post-thumb">
+                                        <a href="blog-post-right">
+                                            <img class="border-radius-15" src="assets/imgs/blog/blog-15.png" alt="" />
+                                        </a>
+                                    </div>
+                                    <div class="entry-content-2">
+                                        <h6 class="mb-10 font-sm"><a class="entry-meta text-muted" href="#">Vegetarian</a></h6>
+                                        <h4 class="post-title mb-15">
+                                            <a href="blog-post-right">The litigants on the screen are not actors</a>
+                                        </h4>
+                                        <div class="entry-meta font-xs color-grey mt-10 pb-10">
+                                            <div>
+                                                <span class="post-on mr-10">25 April 2025</span>
+                                                <span class="hit-count has-dot mr-10">126k Views</span>
+                                                <span class="hit-count has-dot">4 mins read</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                        <div class="pagination-area mt-15 mb-sm-5 mb-lg-0">
+                            <nav aria-label="Page navigation example">
+                                <ul class="pagination justify-content-start">
+                                    <li class="page-item">
+                                        <a class="page-link" href="#"><i class="fi-rs-arrow-small-left"></i></a>
+                                    </li>
+                                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                    <li class="page-item active"><a class="page-link" href="#">2</a></li>
+                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                    <li class="page-item"><a class="page-link dot" href="#">...</a></li>
+                                    <li class="page-item"><a class="page-link" href="#">6</a></li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="#"><i class="fi-rs-arrow-small-right"></i></a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="main">
+        <section class="newsletter mb-15">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="position-relative newsletter-inner">
+                            <div class="newsletter-content">
+                                <h2 class="mb-20">
+                                    Stay home & get your daily <br />
+                                    needs from our shop
+                                </h2>
+                                <p class="mb-45">Start You'r Daily Shopping with <span class="text-brand">S.K.E.J.J</span></p>
+                                <form class="form-subcriber d-flex">
+                                    <input type="email" placeholder="Your emaill address" />
+                                    <button class="btn" type="submit">Subscribe</button>
+                                </form>
+                            </div>
+                            <img src="assets/imgs/banner/banner-13.png" alt="newsletter" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="featured section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6 mb-md-4 mb-xl-0">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-1.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Best prices & offers</h3>
+                                <p>Orders $50 or more</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-2.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Free delivery</h3>
+                                <p>24/7 amazing services</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-3.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Great daily deal</h3>
+                                <p>When you sign up</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-4.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Wide assortment</h3>
+                                <p>Mega Discounts</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-5.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Easy returns</h3>
+                                <p>Within 30 days</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1-5 col-md-4 col-12 col-sm-6 d-xl-none">
+                        <div class="banner-left-icon d-flex align-items-center wow fadeIn animated">
+                            <div class="banner-icon">
+                                <img src="assets/imgs/theme/icons/icon-6.svg" alt="" />
+                            </div>
+                            <div class="banner-text">
+                                <h3 class="icon-box-title">Safe delivery</h3>
+                                <p>Within 30 days</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section-padding footer-mid">
+            <div class="container pt-15 pb-20">
+                <div class="row">
+                    <div class="col">
+                        <div class="widget-about font-md mb-md-3 mb-lg-3 mb-xl-0">
+                            <div class="logo mb-30">
+                                <a href="index.html" class="mb-15"><img src="assets/imgs/theme/logo.png" alt="logo" /></a>
+                                <p class="font-lg text-heading">We are specialists in groceries and original products of the highest quality.</p>
+                            </div>
+                            <ul class="contact-infor">
+                                <li><img src="assets/imgs/theme/icons/icon-location.svg" alt="" /><strong>Address: </strong> <span>5171 W Campbell Ave undefined Kent, Utah 53127 United Kingdom</span></li>
+                                <li><img src="assets/imgs/theme/icons/icon-contact.svg" alt="" /><strong>Call Us:</strong><span>(+91) - 540-025-124553</span></li>
+                                <li><img src="assets/imgs/theme/icons/icon-email-2.svg" alt="" /><strong>Email:</strong><span>sale@skejj.com</span></li>
+                                <li><img src="assets/imgs/theme/icons/icon-clock.svg" alt="" /><strong>Hours:</strong><span>10:00 - 18:00, Mon - Sat</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer-link-widget col">
+                        <h4 class="widget-title">Company</h4>
+                        <ul class="footer-list mb-sm-5 mb-md-0">
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Delivery Information</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Support Center</a></li>
+                            <li><a href="#">Careers</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-link-widget col">
+                        <h4 class="widget-title">Account</h4>
+                        <ul class="footer-list mb-sm-5 mb-md-0">
+                            <li><a href="#">Sign In</a></li>
+                            <li><a href="#">View Cart</a></li>
+                            <li><a href="#">My Wishlist</a></li>
+                            <li><a href="#">Track My Order</a></li>
+                            <li><a href="#">Help Ticket</a></li>                            
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-link-widget col">
+                        <h4 class="widget-title">Popular</h4>
+                        <ul class="footer-list mb-sm-5 mb-md-0">
+                            <li><a href="#">Milk & Flavoured Milk</a></li>
+                            <li><a href="#">Butter and Margarine</a></li>
+                            <li><a href="#">Eggs Substitutes</a></li>
+                            <li><a href="#">Marmalades</a></li>
+                            <li><a href="#">Sour Cream and Dips</a></li>
+                            <li><a href="#">Tea & Kombucha</a></li>
+                            <li><a href="#">Cheese</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-link-widget widget-install-app col">                
+                        <p class="mb-20">Secured Payment Gateways</p>
+                        <img class="wow fadeIn animated" src="assets/imgs/theme/payment-method.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="container pb-30">
+            <div class="row align-items-center">
+                <div class="col-12 mb-30">
+                    <div class="footer-bottom"></div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <p class="font-sm mb-0">&copy; 2025, <strong class="text-brand">S.K.E.J.J </strong> - UK’s one-stop Afro-Caribbean Online Superstore <br />All rights reserved</p>
+                </div>
+                <div class="col-xl-4 col-lg-6 text-center d-none d-xl-block">
+                    <div class="hotline d-lg-inline-flex mr-30">
+                        <img src="assets/imgs/theme/icons/phone-call.svg" alt="hotline" />
+                        <p>1900 - 6666<span>Working 8:00 - 22:00</span></p>
+                    </div>
+                    <div class="hotline d-lg-inline-flex">
+                        <img src="assets/imgs/theme/icons/phone-call.svg" alt="hotline" />
+                        <p>1900 - 8888<span>24/7 Support Center</span></p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 text-end d-none d-md-block">
+                    <div class="mobile-social-icon">
+                        <h6>Follow Us</h6>
+                        <a href="#"><img src="assets/imgs/theme/icons/icon-facebook-white.svg" alt="" /></a>
+                        <a href="#"><img src="assets/imgs/theme/icons/icon-twitter-white.svg" alt="" /></a>
+                        <a href="#"><img src="assets/imgs/theme/icons/icon-instagram-white.svg" alt="" /></a>
+                        <a href="#"><img src="assets/imgs/theme/icons/icon-pinterest-white.svg" alt="" /></a>
+                        <a href="#"><img src="assets/imgs/theme/icons/icon-youtube-white.svg" alt="" /></a>
+                    </div>
+                    <p class="font-sm">Up to 15% discount on your first subscribe</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Preloader Start -->
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="text-center">
+                    <img src="assets/imgs/theme/logo.png" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vendor JS-->
+    <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/vendor/jquery-migrate-3.3.0.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/plugins/slick.js"></script>
+    <script src="assets/js/plugins/jquery.syotimer.min.js"></script>
+    <script src="assets/js/plugins/wow.js"></script>
+    <script src="assets/js/plugins/perfect-scrollbar.js"></script>
+    <script src="assets/js/plugins/magnific-popup.js"></script>
+    <script src="assets/js/plugins/select2.min.js"></script>
+    <script src="assets/js/plugins/waypoints.js"></script>
+    <script src="assets/js/plugins/counterup.js"></script>
+    <script src="assets/js/plugins/jquery.countdown.min.js"></script>
+    <script src="assets/js/plugins/images-loaded.js"></script>
+    <script src="assets/js/plugins/isotope.js"></script>
+    <script src="assets/js/plugins/scrollup.js"></script>
+    <script src="assets/js/plugins/jquery.vticker-min.js"></script>
+    <script src="assets/js/plugins/jquery.theia.sticky.js"></script>
+    <script src="assets/js/plugins/jquery.elevatezoom.js"></script>
+    <!-- Template  JS -->
+    <script src="assets/js/main5103.js"></script>
+    <script src="assets/js/shop5103.js"></script>
+</body>
+
+
+<!-- Mirrored from nest-frontend-v6.vercel.app/blog-category-fullwidth by HTTrack Website Copier/3.x [XR&CO'2017], Wed, 22 Oct 2025 21:05:07 GMT -->
+</html>

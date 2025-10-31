@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Test</title>
+    <!-- Test if CSS loads -->
+    <link rel="stylesheet" href="assets/css/main5103.css" />
+    <style>
+        body {
+            padding: 50px;
+        }
+        .test-box {
+            background: #f0f0f0;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .success { color: green; font-weight: bold; }
+        .error { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="test-box">
+        <h1>Template Test Page</h1>
+        <p>If you can see styled content below, your CSS is loading correctly.</p>
+    </div>
+
+    <div class="test-box">
+        <h2>CSS Loading Test</h2>
+        <p class="text-brand">If this text is GREEN, main5103.css loaded ✓</p>
+        <p class="text-danger">If this text is RED, main5103.css loaded ✓</p>
+        
+        <div style="margin-top: 20px;">
+            <button class="btn btn-brand">Test Button</button>
+        </div>
+    </div>
+
+    <div class="test-box">
+        <h2>Image Test</h2>
+        <img src="assets/imgs/theme/logo.png" alt="Logo" style="max-width: 200px;">
+        <p>If you see the logo above, images are loading ✓</p>
+    </div>
+
+    <div class="test-box">
+        <h2>Instructions</h2>
+        <ol>
+            <li>Save this file as <code>test.html</code> in your ROOT folder (same level as index.html)</li>
+            <li>Run: <code>python -m http.server 8000</code></li>
+            <li>Open: <code>http://localhost:8000/test.html</code></li>
+            <li>Check what works and what doesn't</li>
+        </ol>
+    </div>
+
+    <script>
+        // Check if CSS loaded
+        window.onload = function() {
+            const brandText = document.querySelector('.text-brand');
+            const computed = window.getComputedStyle(brandText);
+            
+            if (computed.color === 'rgb(59, 183, 126)') {
+                console.log('✓ CSS Loaded Successfully!');
+            } else {
+                console.log('✗ CSS NOT Loading - Check file path');
+                alert('CSS is NOT loading! Check:\n1. File exists at: assets/css/main5103.css\n2. You are using a local server\n3. No typos in file path');
+            }
+        };
+    </script>
+</body>
+</html>
